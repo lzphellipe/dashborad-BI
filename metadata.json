@@ -1,0 +1,6 @@
+{
+  "name": "EE Uacury R. A. Bastos - Painel Pedagógico",
+  "description": "Dashboard de indicadores pedagógicos para análise de desempenho escolar e diagnóstico de aprendizagem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
